@@ -5,7 +5,7 @@ This guide walks you through setting up Sequelize ORM in a Node.js project with 
 ## Requirements
 
 - Node.js
-- NPM/Yarn
+- NPM
 - MySQL or PostgreSQL
 
 ---
